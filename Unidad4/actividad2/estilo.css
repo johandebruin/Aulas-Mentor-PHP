@@ -1,0 +1,29 @@
+/* CSS Document */
+body
+{
+	background-color: #FFFFCC;
+	text-align: center;
+}
+
+table
+{
+	border-color:#99CCFF;
+	border-style:solid;
+	width:90%;
+}
+
+td
+{
+	border-color:#0000FF;
+	border-style:solid;
+	border-width:medium;
+}
+
+#wrapper{
+	background-color: #99CCFF;
+	border-style:solid;
+	border-width:medium;
+	border-color:#000000;
+	margin-left:10%;
+	width: 80%;
+}

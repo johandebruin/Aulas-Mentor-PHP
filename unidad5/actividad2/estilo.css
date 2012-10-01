@@ -1,0 +1,31 @@
+/* CSS Document */
+body
+{
+	background-color: #FFFFCC;
+	text-align: center;
+}
+
+table
+{
+
+}
+
+td
+{
+}
+
+#wrapper{
+	background-color: #99CCFF;
+	border-style:solid;
+	border-width:medium;
+	border-color:#000000;
+	width: 80%;
+	margin:0 auto 0 auto;
+}
+
+#resaltado{
+	background-color: #088A85;
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: right;
+}

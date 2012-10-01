@@ -1,0 +1,5 @@
+0|Libro|Book¬
+1|Baño|Bathroom¬
+2|Nieve|Snow¬
+3|Hola|Hello¬
+4|Adios|Bye¬
